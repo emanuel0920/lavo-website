@@ -22,7 +22,7 @@ We conducted 17+ interviews with health-conscious professionals, students, and o
 - Golf course dispensers
 
 ## 📢 Want to Learn More?
-Visit the live website: [GitHub Pages link here]  
+Visit the live website:  https://emanuel0920.github.io/lavo-website/  
 Or sign up to get launch updates directly on the site.
 
 ---
